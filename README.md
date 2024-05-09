@@ -1,4 +1,1 @@
-## Eppie
-Eppie is a next generation email and decentralized identity provider. It features open protocol, serverless architecture, cryptocurrency-grade privacy with full account ownership, ease of use, and SMTP-to-web3 messaging capability.
-
-Eppie is developped to store the data using [IPFS](https://github.com/ipfs/ipfs) infrastructure, and the transport layer will work through [SBBS](https://github.com/BeamMW/beam/wiki/Secure-bulletin-board-system-%28SBBS%29). But the architecture allows to easily plug in multiple storage and transport technologies. Eppie’s e2e encryption is based on [Elliptic-curve](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) cryptography. GUI application is being written in C# with [Uno](https://github.com/unoplatform/uno), and CLI is pure C#. Eppie targets Windows, macOS, Linux, iOS, and Android platforms.
+## .github
