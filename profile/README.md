@@ -1,7 +1,7 @@
 # Welcome to Eppie — open protocol encrypted p2p email
 ## Identity must not be a service. It naturally belongs to human.
 
-[Download GUI client](https://github.com/Eppie-io/Eppie-App#install-from-microsoft-store-app-store-or-google-play) | [Download CLI](https://github.com/Eppie-io/Eppie-CLI#downloads) | [Subscribe](https://eppie.io/) | Whitepaper
+[Download GUI client](https://github.com/Eppie-io/Eppie-App#install-from-microsoft-store-app-store-or-google-play) | [Download CLI](https://github.com/Eppie-io/Eppie-CLI#downloads) | [Subscribe](https://eppie.io/)
 
 ### Intro
 Eppie is a next-gen providerless email that allows its users to own their accounts, addresses and data. In addition to its own p2p network Eppie can communicate with other popular decentralized networks, like Ethereum, and is capable of interacting with conventional IMAP/SMTP email. It is beautiful and easy to use, just like a normal email client.
