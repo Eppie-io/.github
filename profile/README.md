@@ -13,14 +13,15 @@ Eppie is a next-gen providerless email that allows its users to own their accoun
 - 🔑 Identity manager: key management is a breeze  
 - 💾 Decentralized backup: your data is safe and only yours  
 - 🤙 Ultimate interoperaility: Eppie can communicate with Ethereum, Bitcoin and more  
-- 📬 IMAP/SMTP compatible: connect to Gmail, Microsoft Outlook etc.  
+- 📬 IMAP/SMTP compatible: connect to Gmail, Microsoft Outlook etc.
+- 🦄 Proton Mail Authentication: Eppie is the first native desktop client capable of that
 - 🔐 PGP encryption: stay safe even with conventional email
 
 NOTE: the project is early in development, not all of the features are publicly availabe
 
 ### Technology stack
-- 🧩 [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
-- 🦄 [Uno](https://platform.uno/)
+- 🧩 C#
+- 🏗 [Uno](https://platform.uno/)
 - 📦 Storage layer using [IPFS](https://github.com/ipfs/ipfs)
 - 🚚 Transport layer using [SBBS](https://github.com/BeamMW/beam/wiki/Secure-bulletin-board-system-%28SBBS%29)
 - 🔐 [Elliptic-curves](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) cryptography
