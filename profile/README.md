@@ -1,4 +1,38 @@
-## Eppie
-Eppie is a next generation email and decentralized identity provider. It features open protocol, serverless architecture, cryptocurrency-grade privacy with full account ownership, ease of use, and SMTP-to-web3 messaging capability.
+# Welcome to Eppie — open protocol encrypted p2p email
+## Identity must not be a service. It naturally belongs to human.
 
-Eppie is developped to store the data using [IPFS](https://github.com/ipfs/ipfs) infrastructure, and the transport layer will work through [SBBS](https://github.com/BeamMW/beam/wiki/Secure-bulletin-board-system-%28SBBS%29). But the architecture allows to easily plug in multiple storage and transport technologies. Eppie’s e2e encryption is based on [Elliptic-curve](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) cryptography. GUI application is being written in C# with [Uno](https://github.com/unoplatform/uno), and CLI is pure C#. Eppie targets Windows, macOS, Linux, iOS, and Android platforms.
+[Download GUI client](https://github.com/Eppie-io/Eppie-App#install-from-microsoft-store-app-store-or-google-play) | [Download CLI](https://github.com/Eppie-io/Eppie-CLI#downloads) | [Subscribe](https://eppie.io/) | Whitepaper
+
+### Intro
+Eppie is a next-gen providerless email that allows its users to own their accounts, addresses and data. In addition to its own p2p network Eppie can communicate with other popular decentralized networks, like Ethereum, and is capable of interacting with conventional IMAP/SMTP email. It is beautiful and easy to use, just like a normal email client.
+
+### Features
+- 🌎 Works on all platforms: Windows, MacOS, Linux, iOS, Android
+- 🕶️ Privacy-first: there's no such thing as optional encryption
+- 🚀 P2P messaging: without servers nobody's holding your hand anymore 
+- 🔑 Identity manager: key management is a breeze  
+- 💾 Decentralized backup: your data is safe and only yours  
+- 🤙 Ultimate interoperaility: Eppie can communicate with Ethereum, Bitcoin and more  
+- 📬 IMAP/SMTP compatible: connect to Gmail, Microsoft Outlook etc.  
+- 🔐 PGP encryption: stay safe even with conventional email
+
+### Stack
+- 🧩 [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- 🦄 [Uno](https://platform.uno/)
+- 📦 Storage layer using [IPFS](https://github.com/ipfs/ipfs)
+- 🚚 Transport layer using [SBBS](https://github.com/BeamMW/beam/wiki/Secure-bulletin-board-system-%28SBBS%29)
+- 🔐 [Elliptic-curves](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) cryptography
+- 👤 Seed Phrase based on [BIP39](https://bitcoinwiki.org/wiki/mnemonic-phrase) standard
+
+### Keep in touch
+- [Discussions](https://github.com/orgs/Eppie-io/discussions)
+- [X](https://x.com/EppieApp)
+- [Blog](https://blog.eppie.io/)
+- [Subscribe](https://eppie.io/) to newsletter and waiting list
+
+### Contribute
+First of all this is a pretty ambitiois project and we are greateful beyond measure for every bit of help from our community.
+
+If you decide to contribute, please create an issue first, or find an existing one, unless it's a very minor fix, like a typo.
+
+[Here](https://eppie.crowdin.com/eppie) you can help Eppie with localization.
