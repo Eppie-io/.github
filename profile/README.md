@@ -16,6 +16,7 @@ Eppie is a next-gen providerless email that allows its users to own their accoun
 - 📬 IMAP/SMTP compatible: connect to Gmail, Microsoft Outlook etc.
 - 🦄 Proton Mail Authentication: Eppie is the first native desktop client capable of that
 - 🔐 PGP encryption: stay safe even with conventional email
+- 🤖 Local AI agents
 
 NOTE: the project is early in development, not all of the features are publicly availabe
 
